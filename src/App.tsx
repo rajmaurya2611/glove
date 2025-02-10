@@ -8,7 +8,7 @@ export default function App() {
 
       {/* Gradient text for the h1 */}
       <h1 className="text-4xl font-bold mb-4 text-center bg-clip-text text-transparent bg-gradient-to-r from-red-500 via-pink-500 via-blue-500 to-purple-500 leading-tight">
-  Pokayoke Demo
+      GloveGuardian Demo
 </h1>
 
 
